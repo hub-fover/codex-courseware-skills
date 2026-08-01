@@ -1,0 +1,4 @@
+interface:
+  display_name: "课件脚本策划"
+  short_description: "从知识资料生成课程目录与分批详细脚本"
+  default_prompt: "使用 $planning-courseware-scripts 将这些课程资料整理为完整目录和分批详细脚本，最后统一核对一次。"
